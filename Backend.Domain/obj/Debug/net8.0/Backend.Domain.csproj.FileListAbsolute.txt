@@ -1,0 +1,15 @@
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\bin\Debug\net8.0\Backend.Domain.deps.json
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\bin\Debug\net8.0\Backend.Domain.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\bin\Debug\net8.0\Backend.Domain.pdb
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.AssemblyInfoInputs.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.AssemblyInfo.cs
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\refint\Backend.Domain.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.pdb
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\ref\Backend.Domain.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\bin\Debug\net8.0\Backend.Infrastructure.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\bin\Debug\net8.0\Backend.Infrastructure.pdb
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.csproj.AssemblyReference.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Domain\obj\Debug\net8.0\Backend.Domain.csproj.CopyComplete

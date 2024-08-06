@@ -1,0 +1,14 @@
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\bin\Debug\net8.0\Backend.Infrastructure.deps.json
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\bin\Debug\net8.0\Backend.Infrastructure.runtimeconfig.json
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\bin\Debug\net8.0\Backend.Infrastructure.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\bin\Debug\net8.0\Backend.Infrastructure.pdb
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.csproj.AssemblyReference.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.AssemblyInfoInputs.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.AssemblyInfo.cs
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\refint\Backend.Infrastructure.dll
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.pdb
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\Backend.Infrastructure.genruntimeconfig.cache
+D:\Archivos de programa\Proyectos\Personal\Backend-EY\Backend-EY\Backend.Infrastructure\obj\Debug\net8.0\ref\Backend.Infrastructure.dll
